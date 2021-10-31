@@ -1,0 +1,16 @@
+com.project.couponProject3
+com.project.couponProject3.advices
+com.project.couponProject3.beans
+com.project.couponProject3.clr.testProgram
+com.project.couponProject3.configuration
+com.project.couponProject3.controllers
+com.project.couponProject3.enums
+com.project.couponProject3.exceptions
+com.project.couponProject3.exceptions.CompanyExceptions
+com.project.couponProject3.exceptions.CouponExceptions
+com.project.couponProject3.exceptions.CustomerExceptions
+com.project.couponProject3.repositories
+com.project.couponProject3.services
+com.project.couponProject3.servicesImpl
+com.project.couponProject3.threads
+com.project.couponProject3.utils
